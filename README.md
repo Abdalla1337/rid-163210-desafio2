@@ -8,7 +8,7 @@ Projeto desenvolvido para o Desafio 2 da Escola DNC, que consiste na criação d
 
 ## 🔗 Link do Site
 
-- [Acesse o site aqui](rid-163210-desafio2-r0r1w3wlq-marcelos-projetos-cfb5b7cf.vercel.app)
+- [Acesse o site aqui](https://rid-163210-desafio2-b8hcrt284-marcelos-projects-cfb5b7cf.vercel.app/)
 
 ## ⚙️ Tecnologias Utilizadas
 

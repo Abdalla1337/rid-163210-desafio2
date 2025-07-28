@@ -1,4 +1,4 @@
-# RID195440_Desafio2
+# RID #163210_Desafio2
 
 Desafio 2 da Escola DNC: desenvolvimento de landing page responsiva.
 
@@ -8,7 +8,7 @@ Projeto desenvolvido para o Desafio 2 da Escola DNC, que consiste na criação d
 
 ## 🔗 Link do Site
 
-- [Acesse o site aqui](https://rid195440desafio2.netlify.app/)
+- [Acesse o site aqui](rid-163210-desafio2-r0r1w3wlq-marcelos-projetos-cfb5b7cf.vercel.app)
 
 ## ⚙️ Tecnologias Utilizadas
 
@@ -21,13 +21,13 @@ Projeto desenvolvido para o Desafio 2 da Escola DNC, que consiste na criação d
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/LGKARD/RID195440_Desafio2.git
+   git clone https://github.com/Abdalla1337/rid-163210-desafio2.git
    ```
 
 2. **Acesse a pasta do projeto:**
 
    ```bash
-   cd RID195440_Desafio2
+   cd RID163210_Desafio02-main
    ```
 
 3. **Abra o arquivo `index.html` no navegador para visualizar a landing page.**
